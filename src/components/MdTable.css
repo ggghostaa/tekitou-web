@@ -1,0 +1,18 @@
+.md-table {
+    font-family: MingLiU, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.md-table input {
+    font-family: MingLiU, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: none;
+}
+.md-table input:focus {
+    outline: none;
+}
+.md-table td {
+    border: 1px solid black;
+}
